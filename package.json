@@ -7,7 +7,11 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.27",
+    "@fortawesome/vue-fontawesome": "^0.1.9",
+    "bulma": "^0.8.0",
     "core-js": "^3.6.4",
+    "please-wait": "0.0.5",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.11"
   },
